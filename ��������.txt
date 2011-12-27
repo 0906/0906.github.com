@@ -1,0 +1,42 @@
+<HTML>
+<HEAD>
+<TITLE>Клуб любителей итальянских автомобилей</TITLE>
+</HEAD>
+<BoDY background="фон.jpg">
+<h2 align="center"> <font color="black" face="MS PGothic"><b>АВТОМОБИЛИ ИТАЛИИ</b></font> </h2>
+<table noborder align="center">
+<tr>
+<td align="center"><img align="center" src="виз.jpg"/></td>
+</tr>
+</table>
+<br>
+<h1 align="center">Клуб любителей итальянских автомобилей</h1>
+<h2 align="center">НАШИ ПАРТНЕРЫ</h2>
+
+<table noborder align="center">
+<tr>
+<td align="center">
+<img src="авто ру.jpg"/> <b>Автомобильный портал: все об автомобилях</b><br>
+<img src="е1.jpg"/> <b>Е1 - Екатеринбург он-лайн</b><br>
+<img src="италия по-русски.jpg"/> <b>Крупнейший информационный портал в Италии</b><br>
+<img src="автобизнес.jpg"/> <b>Автоцентры России и Европы</b><br>
+<img src="свадьба.jpg"/> <b>Свадебный салон "Lovly Me"</b></td>
+</tr>
+</table>
+<br>
+
+<table noborder align="center">
+<tr>
+<td align="center"> <a href="http://top100.rambler.ru/"><img align="center" src="участник рамблер.jpg"/></a> <a href="http://masterhost.ru/"><img align="center" src="хостинг.jpg"/></a> <a href="http://money.yandex.ru/"><img align="center" src="яндекс.jpg"/></a> </td>
+</tr>
+</table>
+ 
+<table noborder align="center">
+<td align="center"> Copyright © Наталия Виноградова. 2008-2011.<br>
+Контакты: <a href="mailto:avtoitalia@yandex.ru">avtoitalia@yandex.ru</a>, +7 912 608 23 85, 8(343)65 45 23 <br>
+All Rights Reserved.</td>
+</tr>
+</table>
+ 
+</BoDY>
+</HTML>

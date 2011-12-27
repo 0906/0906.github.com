@@ -1,0 +1,63 @@
+<HTML>
+<HEAD>
+<TITLE>Клуб любителей итальянских автомобилей</TITLE>
+</HEAD>
+<BoDY background="фон.jpg">
+<h2 align="center"> <font color="black" face="MS PGothic"><b>АВТОМОБИЛИ ИТАЛИИ</b></font> </h2>
+<table noborder align="center">
+<tr>
+<td align="center"><img align="center" src="виз.jpg"/></td>
+</tr>
+</table>
+<br>
+<h1 align="center">Клуб любителей итальянских автомобилей</h1>
+<h2 align="center">МАРКИ</h2>
+ 
+<table noborder cellspacing="8" cellpadding="13">
+<tr> 
+<td width="30%" valign="top"><h3 align="center">Фотографии</h3>
+<img align="center" src="фото фиат.jpg"/></td>
+ 
+<td valign="top"> 
+<img align="center" src="заставка фиат.jpg"/>
+<br>
+<p align="justify"><font size="+1"><b>FIAT S.p.A. (акроним от итал. Fabbrica Italiana Automobili Torino, русск. 
+Итальянская автомобильная фабрика Турина)</b> — итальянская компания-производитель автомобилей, двигателей, финансовое и 
+производственное объединение. Штаб-квартира расположена в Турине (регион Пьемонт). В последнее время концерн носил 
+название FIAT Group. С 1 января 2011 года FIAT Group разделился на два концерна: FIAT SpA и FIAT Industrial.<br>
+<br>
+<b>Передовая организация</b>
+Главный офис исследовательского центра FIAT, основанного в 1976 году, находится в итальянском городе Orbassano, рядом с 
+Турином. Здесь проводятся исследования двигателей, транспортных средств, электронных систем, производственных процессов, 
+новых технологий и методов управления. Исследовательский центр FIAT приобрел известность благодаря своим достижениям в 
+области технологий и получил многочисленные международные награды, такие как: премия "Economist" за новаторство и 
+разработку технологии дизельного двигателя Common Rail – 2002 год, "Legambiente 2002" - за метановый двигатель на 
+смешанном топливе и технологическая премия "Ferrari" «Лучшему техническому партнеру года».Одним из главных достижений FIAT 
+особо стоит отметить разработку 2002 года - двигатель второго поколения "Multijet", пришедший на смену Common Rail и 
+обладающий несоизмеримо большей производительностью. В настоящее время он надежно служит в автомобилях FIAT: Panda, Stilo, 
+Punto и Idea. 
+</font></td>
+
+<td width="30%" valign="top"><img align="center" src="логотип.jpg"/><br>
+<h3 align="center">На главную</h3>
+<br>
+<br>
+<a href="http://www.fiatspa.com/"><img align="center" src="реклама6.jpg"/></a></td>
+</table>
+<br>
+ 
+<table noborder align="center">
+<tr>
+<td align="center"> <a href="http://top100.rambler.ru/"><img align="center" src="участник рамблер.jpg"/></a> <a href="http://masterhost.ru/"><img align="center" src="хостинг.jpg"/></a> <a href="http://money.yandex.ru/"><img align="center" src="яндекс.jpg"/></a> </td>
+</tr>
+</table>
+ 
+<table noborder align="center">
+<td align="center"> Copyright © Наталия Виноградова. 2008-2011.<br>
+Контакты: <a href="mialto:avtoitalia@yandex.ru">avtoitalia@yandex.ru</a>, +7 912 608 23 85, 8(343)65 45 23 <br>
+All Rights Reserved.</td>
+</tr>
+</table>
+ 
+</BoDY>
+</HTML>

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Время</title>
+<style type="text/css">
+   table {
+    noborder
+    border-collapse: separate;
+    width: 100%;
+    border-spacing: 7px 11px;
+   }
+   td {
+    padding: 5px;
+    noborder
+   }
+  </style>
+</head>
+<body onLoad="myclock()" background="фон.jpg" align="center">
+<script language="JavaScript" type="text/javascript">
+function myclock()
+{
+ndata=new Date()
+hours= ndata.getHours();
+mins= ndata.getMinutes();
+secs= ndata.getSeconds();
+if (hours < 10) {hours = "0" + hours }
+if (mins < 10) {mins = "0" + mins }
+if (secs < 10) {secs = "0" + secs }
+datastr =hours+":" + mins+":" +secs
+document.clockexam.clock.value = " "+datastr;
+setTimeout("myclock()", 1000);
+}
+</script> 
+<form name="clockexam"><input type="text" size="7" name="clock"></form>
+<br>
+<br>
+<br>
+<table>
+<td align="center"> Copyright © Наталия Виноградова. 2008-2011.<br>
+Контакты: <a href="mailto:avtoitalia@yandex.ru">avtoitalia@yandex.ru</a>, +7 912 608 23 85, 8(343)65 45 23 <br>
+All Rights Reserved.</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<HTML>
+<HEAD>
+<TITLE>Клуб любителей итальянских автомобилей</TITLE>
+</HEAD>
+<BoDY background="фон.jpg">
+<h2 align="center"> <font color="black" face="MS PGothic"><b>АВТОМОБИЛИ ИТАЛИИ</b></font> </h2>
+<table noborder align="center">
+<tr>
+<td align="center"><img align="center" src="виз.jpg"/></td>
+</tr>
+</table>
+<br>
+<h1 align="center">Клуб любителей итальянских автомобилей</h1>
+<h2 align="center">Lamborghini S.p.A.</h2>
+<br>
+<table noborder align="center">
+<tr>
+<td>
+<img src="ламб1.jpg"/><br>
+<img src="ламб2.jpg"/><br>
+<img align="center" src="ламб3.jpg"/><br>
+<img align="center" src="ламб4.jpg"/><br>
+<img src="ламб5.jpg"/></td>
+</tr>
+</table>
+<br>
+<table noborder align="center">
+<tr>
+<td align="center"> <a href="http://top100.rambler.ru/"><img align="center" src="участник рамблер.jpg"/></a> <a href="http://masterhost.ru/"><img align="center" src="хостинг.jpg"/></a> <a href="http://money.yandex.ru/"><img align="center" src="яндекс.jpg"/></a> </td>
+</tr>
+</table>
+ 
+<table noborder align="center">
+<td align="center"> Copyright © Наталия Виноградова. 2008-2011.<br>
+Контакты: <a href="mailto:avtoitalia@yandex.ru">avtoitalia@yandex.ru</a>, +7 912 608 23 85, 8(343)65 45 23 <br>
+All Rights Reserved.</td>
+</tr>
+</table>
+ 
+</BoDY>
+</HTML>
